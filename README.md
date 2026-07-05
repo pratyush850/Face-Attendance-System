@@ -2,6 +2,8 @@
 
 A smart facial recognition-based attendance management system built using **Python**, **OpenCV**, **PyQt5**, and **SQLite**. The application automates attendance tracking by recognizing registered faces in real time, eliminating the need for manual attendance while improving accuracy and efficiency.
 
+![Project Screenshot] (face.png)
+
 ## 🚀 Features
 
 * 👤 Real-time face detection and recognition
